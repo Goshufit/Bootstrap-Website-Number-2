@@ -8,4 +8,11 @@
     .dropdown-menu-end[data-bs-popper] {
         left: 0;
     }
+
+    .wrap {
+        font-size: 14px;
+    }
+    
+
 }
+
